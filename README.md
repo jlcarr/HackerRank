@@ -22,6 +22,10 @@ Solutions to HackerRank problems in Python3
 - **Link**: https://www.hackerrank.com/challenges/balanced-brackets/problem
 - **Solution**: Keep a stack, also used a dict to map opening to closing brackets.
 
+### Problem: Queue using Two Stacks
+- **Link**: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+- **Solution**: One stack represents the end of the queue, and the other the front. When a value from the front is needed but is empty, the back is popped into the front, effectively flipping the stack.
+
 ### Problem: 
 - **Link**: 
 - **Solution**: 
