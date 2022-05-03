@@ -18,6 +18,10 @@ Solutions to HackerRank problems in Python3
 - **Link**: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 - **Solution**: Tortoise and Hare algorithm.
 
+### Problem: Balanced Brackets
+- **Link**: https://www.hackerrank.com/challenges/balanced-brackets/problem
+- **Solution**: Keep a stack, also used a dict to map opening to closing brackets.
+
 ### Problem: 
 - **Link**: 
 - **Solution**: 
