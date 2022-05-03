@@ -14,3 +14,11 @@ Solutions to HackerRank problems in Python3
 - **Link**: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 - **Solution**: Keep track of previous and subsequent nodes in the linked list and iterate through to find the insert position.
 
+### Problem: Cycle Detection
+- **Link**: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
+- **Solution**: Tortoise and Hare algorithm.
+
+### Problem: 
+- **Link**: 
+- **Solution**: 
+
